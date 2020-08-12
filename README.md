@@ -36,3 +36,9 @@ In this, I have used the Air Quality dataset. This is a dataset that reports on 
 - Invert scaling
 - Plot the line graph between actual vs predicted values
 - Calculate RMSE(root mean squared errot) and MAPE(mean absolute percentage error)
+
+### Results
+<div style="float:left">
+<div style="float:left"><img src="https://github.com/jyoti0225/Air-Pollution-Forecasting/blob/master/output_graph.png" />
+</div>
+<br />
